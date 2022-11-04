@@ -9,7 +9,6 @@ email : xiao3952@foxmail.com
 
 
 
-此脚本仅供学习交流
 
 <!---
 yutu-75/yutu-75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
